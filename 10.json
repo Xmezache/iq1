@@ -1,0 +1,46 @@
+{
+  "code": 0,
+  "message": "تم بنجاح",
+  "book": {
+    "id": "10",
+    "name": "مجدي الجلاد",
+    "cover": "https://images.media.iqraaly.com:444//users/1/shows/10_1300318234.jpg",
+    "author_id": "",
+    "author": "",
+    "publisher_name": "",
+    "about": "",
+    "is_paid": "0",
+    "is_brief": "0",
+    "narrator_id": "6",
+    "progress_bar": {
+      "total_episodes": 1,
+      "played_episodes": 0,
+      "percentage": 0
+    },
+    "is_favoured": "0",
+    "narrator_name": "محمد السيد",
+    "rate": 0,
+    "rate_count": 0,
+    "narrator_rate": 0,
+    "book_rate": 0,
+    "duration_in_seconds": 203,
+    "size_in_bytes": 0,
+    "episodes": [
+      {
+        "id": "9",
+        "title": "الأمن أولا",
+        "show_id": 10,
+        "description": "بصوت : محمد السيد\n        \n        تاريخ النشر : 3 مارس 2011\n                \n                المصدر : http://www.almasryalyoum.com/node/337192",
+        "file": "https://stream.iqraaly.com/v1/stream-start/D6vJZbMjOyrAezrkNng2",
+        "duration": "203",
+        "image": "https://images.media.iqraaly.com:444//users/1/shows/10_1300318234.jpg",
+        "size": "0",
+        "is_paid": "0",
+        "position": "9",
+        "episode_type_id": 4,
+        "book_name": "مجدي الجلاد"
+      }
+    ]
+  },
+  "lists": []
+}
