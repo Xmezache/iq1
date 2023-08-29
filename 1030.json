@@ -1,0 +1,248 @@
+{
+  "code": 0,
+  "message": "تم بنجاح",
+  "book": {
+    "id": "1030",
+    "name": "تاريخ ضائع: التراث الخالد لعلماء الإسلام ومفكريه وفنانيه",
+    "cover": "https://images.media.iqraaly.com:444/users/1/shows/1030.jpg",
+    "author_id": "139",
+    "author": "مايكل هاميلتون مورجان",
+    "publisher_name": "دار نهضة مصر للطباعة والنشر",
+    "about": "",
+    "is_paid": "0",
+    "is_brief": "0",
+    "narrator_id": "78",
+    "progress_bar": {
+      "total_episodes": 10,
+      "played_episodes": 0,
+      "percentage": 0
+    },
+    "is_favoured": "0",
+    "narrator_name": "شادي إيهاب",
+    "rate": 0,
+    "rate_count": 0,
+    "narrator_rate": 0,
+    "book_rate": 0,
+    "duration_in_seconds": 64229,
+    "size_in_bytes": 1047353568,
+    "episodes": [
+      {
+        "id": "44677",
+        "title": "(1) مقدمة",
+        "show_id": 1030,
+        "description": "تاريخ ضائع: التراث الخالد لعلماء الإسلام ومفكريه وفنانيه - مايكل هاميلتون مورجان",
+        "file": "https://stream.iqraaly.com/v1/stream-start/NdvXmVBOMaDVOe7yZQog",
+        "duration": "1680",
+        "image": "https://images.media.iqraaly.com:444/users/1/shows/1030.jpg",
+        "size": "27388948",
+        "is_paid": "0",
+        "position": "44677",
+        "episode_type_id": 1,
+        "book_name": "تاريخ ضائع: التراث الخالد لعلماء الإسلام ومفكريه وفنانيه"
+      },
+      {
+        "id": "44678",
+        "title": "(2) أبناء روما",
+        "show_id": 1030,
+        "description": "تاريخ ضائع: التراث الخالد لعلماء الإسلام ومفكريه وفنانيه - مايكل هاميلتون مورجان",
+        "file": "https://stream.iqraaly.com/v1/stream-start/B4ZMRna0W3Kl0kXgy6DK",
+        "duration": "9939",
+        "image": "https://images.media.iqraaly.com:444/users/1/shows/1030.jpg",
+        "size": "165068676",
+        "is_paid": "0",
+        "position": "44678",
+        "episode_type_id": 1,
+        "book_name": "تاريخ ضائع: التراث الخالد لعلماء الإسلام ومفكريه وفنانيه"
+      },
+      {
+        "id": "44682",
+        "title": "(3) مدن العباقرة المفقودة",
+        "show_id": 1030,
+        "description": "تاريخ ضائع: التراث الخالد لعلماء الإسلام ومفكريه وفنانيه - مايكل هاميلتون مورجان",
+        "file": "https://stream.iqraaly.com/v1/stream-start/r7BZz5mOxL97OlRWobpY",
+        "duration": "8185",
+        "image": "https://images.media.iqraaly.com:444/users/1/shows/1030.jpg",
+        "size": "133610058",
+        "is_paid": "0",
+        "position": "44682",
+        "episode_type_id": 1,
+        "book_name": "تاريخ ضائع: التراث الخالد لعلماء الإسلام ومفكريه وفنانيه"
+      },
+      {
+        "id": "44688",
+        "title": "(4) تجلي عظمة الله في الأرقام",
+        "show_id": 1030,
+        "description": "تاريخ ضائع: التراث الخالد لعلماء الإسلام ومفكريه وفنانيه - مايكل هاميلتون مورجان",
+        "file": "https://stream.iqraaly.com/v1/stream-start/lLa8K97O28BR16MzZBeX",
+        "duration": "7687",
+        "image": "https://images.media.iqraaly.com:444/users/1/shows/1030.jpg",
+        "size": "125527798",
+        "is_paid": "0",
+        "position": "44688",
+        "episode_type_id": 1,
+        "book_name": "تاريخ ضائع: التراث الخالد لعلماء الإسلام ومفكريه وفنانيه"
+      },
+      {
+        "id": "44690",
+        "title": "(5) أشكال النجوم",
+        "show_id": 1030,
+        "description": "تاريخ ضائع: التراث الخالد لعلماء الإسلام ومفكريه وفنانيه - مايكل هاميلتون مورجان",
+        "file": "https://stream.iqraaly.com/v1/stream-start/JER2GLeOdarMA7wKlkQV",
+        "duration": "7304",
+        "image": "https://images.media.iqraaly.com:444/users/1/shows/1030.jpg",
+        "size": "119952067",
+        "is_paid": "0",
+        "position": "44690",
+        "episode_type_id": 1,
+        "book_name": "تاريخ ضائع: التراث الخالد لعلماء الإسلام ومفكريه وفنانيه"
+      },
+      {
+        "id": "44696",
+        "title": "(6) المخترعون والعلماء",
+        "show_id": 1030,
+        "description": "تاريخ ضائع: التراث الخالد لعلماء الإسلام ومفكريه وفنانيه - مايكل هاميلتون مورجان",
+        "file": "https://stream.iqraaly.com/v1/stream-start/73Bk6l90e9lv0mbMRjYn",
+        "duration": "6139",
+        "image": "https://images.media.iqraaly.com:444/users/1/shows/1030.jpg",
+        "size": "99974877",
+        "is_paid": "0",
+        "position": "44696",
+        "episode_type_id": 1,
+        "book_name": "تاريخ ضائع: التراث الخالد لعلماء الإسلام ومفكريه وفنانيه"
+      },
+      {
+        "id": "44700",
+        "title": "(7) المعالجون والمستشفيات",
+        "show_id": 1030,
+        "description": "تاريخ ضائع: التراث الخالد لعلماء الإسلام ومفكريه وفنانيه - مايكل هاميلتون مورجان",
+        "file": "https://stream.iqraaly.com/v1/stream-start/lLa8K97O28BG16MzZBeX",
+        "duration": "8360",
+        "image": "https://images.media.iqraaly.com:444/users/1/shows/1030.jpg",
+        "size": "135163955",
+        "is_paid": "0",
+        "position": "44700",
+        "episode_type_id": 1,
+        "book_name": "تاريخ ضائع: التراث الخالد لعلماء الإسلام ومفكريه وفنانيه"
+      },
+      {
+        "id": "44704",
+        "title": "(8) رؤية وصوت وقلعة",
+        "show_id": 1030,
+        "description": "تاريخ ضائع: التراث الخالد لعلماء الإسلام ومفكريه وفنانيه - مايكل هاميلتون مورجان",
+        "file": "https://stream.iqraaly.com/v1/stream-start/QnMmajo14eNR0NJVGpdX",
+        "duration": "6565",
+        "image": "https://images.media.iqraaly.com:444/users/1/shows/1030.jpg",
+        "size": "105800059",
+        "is_paid": "0",
+        "position": "44704",
+        "episode_type_id": 1,
+        "book_name": "تاريخ ضائع: التراث الخالد لعلماء الإسلام ومفكريه وفنانيه"
+      },
+      {
+        "id": "44709",
+        "title": "(9) القيادة المستنيرة",
+        "show_id": 1030,
+        "description": "تاريخ ضائع: التراث الخالد لعلماء الإسلام ومفكريه وفنانيه - مايكل هاميلتون مورجان",
+        "file": "https://stream.iqraaly.com/v1/stream-start/6vJZbMjOyL8m0ezrkNng",
+        "duration": "7702",
+        "image": "https://images.media.iqraaly.com:444/users/1/shows/1030.jpg",
+        "size": "123828995",
+        "is_paid": "0",
+        "position": "44709",
+        "episode_type_id": 1,
+        "book_name": "تاريخ ضائع: التراث الخالد لعلماء الإسلام ومفكريه وفنانيه"
+      },
+      {
+        "id": "44715",
+        "title": "(10) الخاتمة",
+        "show_id": 1030,
+        "description": "تاريخ ضائع: التراث الخالد لعلماء الإسلام ومفكريه وفنانيه - مايكل هاميلتون مورجان",
+        "file": "https://stream.iqraaly.com/v1/stream-start/9XveWo21QP57AMGDwpLx",
+        "duration": "668",
+        "image": "https://images.media.iqraaly.com:444/users/1/shows/1030.jpg",
+        "size": "11038135",
+        "is_paid": "0",
+        "position": "44715",
+        "episode_type_id": 1,
+        "book_name": "تاريخ ضائع: التراث الخالد لعلماء الإسلام ومفكريه وفنانيه"
+      }
+    ]
+  },
+  "lists": [
+    {
+      "title": "كتب لنفس الراوى",
+      "books": [
+        {
+          "id": "931",
+          "name": "قصص الصحابة والصالحين",
+          "cover": "https://images.media.iqraaly.com:444/users/1/shows/931.jpg",
+          "author_id": "155",
+          "author": "محمد متولي الشعراوي",
+          "publisher_name": "المكتبة التوفيقية",
+          "about": "يضم هذا الكتاب قصص منتقاة لمواقف في حياة الصحابة والصالحين.",
+          "is_paid": "0",
+          "narrator_id": "78",
+          "narrator_name": "شادي إيهاب",
+          "rate": 4.587542087542087
+        }
+      ]
+    },
+    {
+      "title": "كتب لنفس التصنيفات",
+      "books": [
+        {
+          "id": "778",
+          "name": "اللاهوت العربي وأصول العنف الديني",
+          "cover": "https://images.media.iqraaly.com:444/users/1/shows/778.jpg",
+          "author_id": "182",
+          "author": "يوسف زيدان",
+          "publisher_name": "دار الشروق",
+          "about": " يتتبع يوسف زيدان، أهم الأفكار التي شكّلت تصوّر اليهود والمسيحيين والمسلمين، لعلاقة الإنسان بالخالق.\r\nيسعى الكتاب لدراسة و فهم ارتباط الدين بالسياسة و بالعنف الذي لم يخل منه تاريخنا الطويل، اليهودي والمسيحي والإسلامي. و إدراك الروابط الخفية بين المراحل التاريخية المسماة بالتاريخ اليهودي، و التاريخ المسيحي، و التاريخ الاسلامي. والنظر فى هذه التواريخ باعتبارها تاريخا واحداً ارتبط بالجغرافيا وتحكمت فيه آليات واحدة.",
+          "is_paid": "1",
+          "narrator_id": "19",
+          "narrator_name": "مروة مدين",
+          "rate": 4.238095274725275
+        },
+        {
+          "id": "1313",
+          "name": "أبناء رفاعة: الثقافة والحرية",
+          "cover": "https://images.media.iqraaly.com:444/users/1/shows/1313_1556109140.jpg",
+          "author_id": "46",
+          "author": "بهاء طاهر",
+          "publisher_name": "دار الشروق",
+          "about": "«ربما يكون أدقّ وصف لهذا الكتاب هو صعود الدولة المدنية وانحسارها. فالجزء الأول منه مكرّس لبيان خُطى التقدم التدريجي لخروج مجتمعنا من ظلام العصور الوسطى إلى أنوار الحداثة والحرية. وحاول الكتاب أن يبين الأدوار التي لعبها المثقفون لإحداث هذه النقلة التاريخية على امتداد قرن ونصف القرن من الزمان تقريبًا. أما الفصول الأخيرة من الكتاب فتعرض خُطى التراجع التدريجي والمنظم لمشروع النهضة ذاك، بغية العودة من جديد إلى المنظومة الفكرية للدولة العثمانية التي يتغزل بها الآن الكثيرون على غير علم، رغم أنها قد أشفت بمصر على الهلاك كما يبيّن هذا الكتاب\r\n",
+          "is_paid": "1",
+          "narrator_id": "105",
+          "narrator_name": "سامي العربي ",
+          "rate": 4.560975609756097
+        },
+        {
+          "id": "1366",
+          "name": "الأسرى يقيمون المتاريس",
+          "cover": "https://images.media.iqraaly.com:444/users/1/shows/1366_1568731434.jpg",
+          "author_id": "309",
+          "author": "فؤاد حجازي",
+          "publisher_name": "دار الشروق",
+          "about": "عن تجرتبه داخل سجن \"عتليت\" الإسرائيلي بعد أسره في نكسة 1967، كتب فؤاد حجازي روايته الجميلة \"الأسرى يقيمون المتاريس\"، والتي صدرت للمرة الأولى عام 1976 وتوالت طبعاتها، بل وترجمت إلى الإنجليزية والروسية، كما تناولتها رسالتان للدكتوراه إحداهما في جامعة ستكهولم\r\n",
+          "is_paid": "1",
+          "narrator_id": "40",
+          "narrator_name": "محمود منصور",
+          "rate": 4.471153846153846
+        },
+        {
+          "id": "1534",
+          "name": "أمريكا وثورة 1919",
+          "cover": "https://images.media.iqraaly.com:444/users/1/shows/1534_1600894818.jpg",
+          "author_id": "386",
+          "author": "محمد أبو الغار",
+          "publisher_name": "دار الشروق",
+          "about": "فى كتابه «أمريكا وثورة 1919»..محمد أبو الغار يستعرض تفاصيل مرحلة غامضة فى تاريخ مصر تنشر لأول مرة",
+          "is_paid": "1",
+          "narrator_id": "40",
+          "narrator_name": "محمود منصور",
+          "rate": 4.708333333333333
+        }
+      ]
+    }
+  ]
+}

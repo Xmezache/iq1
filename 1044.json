@@ -1,0 +1,292 @@
+{
+  "code": 0,
+  "message": "تم بنجاح",
+  "book": {
+    "id": "1044",
+    "name": "تذكرة وحيدة للقاهرة",
+    "cover": "https://images.media.iqraaly.com:444/users/1/shows/1044.jpg",
+    "author_id": "24",
+    "author": "أشرف العشماوي",
+    "publisher_name": "الدار المصرية اللبنانية",
+    "about": "رحلة على مدار خمسين عاماً يسافر خلالها البطل النوبي المولد والأصل إلى القاهرة في الأربعينيات من القرن الماضي. وتبدأ رحلته من أسوان في أقصى الجنوب بعد غرق قريته النوبية، ومصرع والده في حادث سير مريب مع المهندس الإنكليزي مصمم خزان أسوان، حيث يلتحق بالعمل مع ابن عمته العامل البسيط في نادي الجزيرة العريق وسط القاهرة، ليكتشف عالماً آخر لم يكن يعرف عنه شيئاً، ويخوض مغامرة مشوقة متلاحقة الأحداث خلال سنوات عمله في النادي. ومن حي الزمالك العريق وعمله لدى أبناء الطبقة الأرستقراطية، ينتقل إلى حواري عابدين العتيقة حيث يعيش مع غالبية النوبيين على هامش الحياة.",
+    "is_paid": "0",
+    "is_brief": "0",
+    "narrator_id": "90",
+    "progress_bar": {
+      "total_episodes": 10,
+      "played_episodes": 0,
+      "percentage": 0
+    },
+    "is_favoured": "0",
+    "narrator_name": "أسماء سمير",
+    "rate": 0,
+    "rate_count": 0,
+    "narrator_rate": 0,
+    "book_rate": 0,
+    "duration_in_seconds": 50150,
+    "size_in_bytes": 0,
+    "episodes": [
+      {
+        "id": "45562",
+        "title": "(1) الجزء الأول",
+        "show_id": 1044,
+        "description": "تذكرة وحيدة للقاهرة - أشرف العشماوي",
+        "file": "https://stream.iqraaly.com/v1/stream-start/LPwQNVKA5yyGAp6DxJkj",
+        "duration": "5062",
+        "image": "https://images.media.iqraaly.com:444/users/1/shows/1044.jpg",
+        "size": "0",
+        "is_paid": "0",
+        "position": "45562",
+        "episode_type_id": 1,
+        "book_name": "تذكرة وحيدة للقاهرة"
+      },
+      {
+        "id": "45563",
+        "title": "(2) الجزء الثاني",
+        "show_id": 1044,
+        "description": "تذكرة وحيدة للقاهرة - أشرف العشماوي",
+        "file": "https://stream.iqraaly.com/v1/stream-start/2X3rQNMOKeee1qa8bzdw",
+        "duration": "6010",
+        "image": "https://images.media.iqraaly.com:444/users/1/shows/1044.jpg",
+        "size": "0",
+        "is_paid": "0",
+        "position": "45563",
+        "episode_type_id": 1,
+        "book_name": "تذكرة وحيدة للقاهرة"
+      },
+      {
+        "id": "45564",
+        "title": "(3) الجزء الثالث",
+        "show_id": 1044,
+        "description": "تذكرة وحيدة للقاهرة - أشرف العشماوي",
+        "file": "https://stream.iqraaly.com/v1/stream-start/57R8dQXA3BBaO3om6vNe",
+        "duration": "5666",
+        "image": "https://images.media.iqraaly.com:444/users/1/shows/1044.jpg",
+        "size": "0",
+        "is_paid": "0",
+        "position": "45564",
+        "episode_type_id": 1,
+        "book_name": "تذكرة وحيدة للقاهرة"
+      },
+      {
+        "id": "45565",
+        "title": "(4) الجزء الرابع",
+        "show_id": 1044,
+        "description": "تذكرة وحيدة للقاهرة - أشرف العشماوي",
+        "file": "https://stream.iqraaly.com/v1/stream-start/R6xXrk70l552O2MzlweN",
+        "duration": "4567",
+        "image": "https://images.media.iqraaly.com:444/users/1/shows/1044.jpg",
+        "size": "0",
+        "is_paid": "0",
+        "position": "45565",
+        "episode_type_id": 1,
+        "book_name": "تذكرة وحيدة للقاهرة"
+      },
+      {
+        "id": "45567",
+        "title": "(5) الجزء الخامس",
+        "show_id": 1044,
+        "description": "تذكرة وحيدة للقاهرة - أشرف العشماوي",
+        "file": "https://stream.iqraaly.com/v1/stream-start/mrYM7P80rLLdAdpNwVKW",
+        "duration": "4353",
+        "image": "https://images.media.iqraaly.com:444/users/1/shows/1044.jpg",
+        "size": "0",
+        "is_paid": "0",
+        "position": "45567",
+        "episode_type_id": 1,
+        "book_name": "تذكرة وحيدة للقاهرة"
+      },
+      {
+        "id": "45568",
+        "title": "(6) الجزء السادس",
+        "show_id": 1044,
+        "description": "تذكرة وحيدة للقاهرة - أشرف العشماوي",
+        "file": "https://stream.iqraaly.com/v1/stream-start/GlDeJY81Lyy90Mg3Qodm",
+        "duration": "4096",
+        "image": "https://images.media.iqraaly.com:444/users/1/shows/1044.jpg",
+        "size": "0",
+        "is_paid": "0",
+        "position": "45568",
+        "episode_type_id": 1,
+        "book_name": "تذكرة وحيدة للقاهرة"
+      },
+      {
+        "id": "45569",
+        "title": "(7) الجزء السابع",
+        "show_id": 1044,
+        "description": "تذكرة وحيدة للقاهرة - أشرف العشماوي",
+        "file": "https://stream.iqraaly.com/v1/stream-start/LjvElrJ1gRR2A3dNXQBK",
+        "duration": "4366",
+        "image": "https://images.media.iqraaly.com:444/users/1/shows/1044.jpg",
+        "size": "0",
+        "is_paid": "0",
+        "position": "45569",
+        "episode_type_id": 1,
+        "book_name": "تذكرة وحيدة للقاهرة"
+      },
+      {
+        "id": "45570",
+        "title": "(8) الجزء الثامن",
+        "show_id": 1044,
+        "description": "تذكرة وحيدة للقاهرة - أشرف العشماوي",
+        "file": "https://stream.iqraaly.com/v1/stream-start/vQb2zpVAYkko0Zgj9EwN",
+        "duration": "5106",
+        "image": "https://images.media.iqraaly.com:444/users/1/shows/1044.jpg",
+        "size": "0",
+        "is_paid": "0",
+        "position": "45570",
+        "episode_type_id": 1,
+        "book_name": "تذكرة وحيدة للقاهرة"
+      },
+      {
+        "id": "45571",
+        "title": "(9) الجزء التاسع",
+        "show_id": 1044,
+        "description": "تذكرة وحيدة للقاهرة - أشرف العشماوي",
+        "file": "https://stream.iqraaly.com/v1/stream-start/JKQ4XBE0JBBp0q529Dxg",
+        "duration": "5120",
+        "image": "https://images.media.iqraaly.com:444/users/1/shows/1044.jpg",
+        "size": "0",
+        "is_paid": "0",
+        "position": "45571",
+        "episode_type_id": 1,
+        "book_name": "تذكرة وحيدة للقاهرة"
+      },
+      {
+        "id": "45572",
+        "title": "(10) الجزء العاشر \"الأخير\"",
+        "show_id": 1044,
+        "description": "تذكرة وحيدة للقاهرة - أشرف العشماوي",
+        "file": "https://stream.iqraaly.com/v1/stream-start/XeKzdm3AG44a1YbyxoLw",
+        "duration": "5804",
+        "image": "https://images.media.iqraaly.com:444/users/1/shows/1044.jpg",
+        "size": "0",
+        "is_paid": "0",
+        "position": "45572",
+        "episode_type_id": 1,
+        "book_name": "تذكرة وحيدة للقاهرة"
+      }
+    ]
+  },
+  "lists": [
+    {
+      "title": "كتب لنفس المؤلف",
+      "books": [
+        {
+          "id": "1629",
+          "name": "كلاب الراعي",
+          "cover": "https://images.media.iqraaly.com:444/users/1/shows/1629_1629317539.jpeg",
+          "author_id": "24",
+          "author": "أشرف العشماوي",
+          "publisher_name": "الدار المصرية اللبنانية",
+          "about": ".. هذه الرواية تأسرك منذ فصولها الأولى ، وقد أجاد العشماوي فى وصف تلك الفترة التى نجح فى بناء عالمها بدعائم تاريخية وقدرات تخيلية تضيف إلى بعدها التاريخى وتفوق فى رسم الشخصيات وجغرافية الأماكن وبعث الروح فى المؤامرات التى كانت تدور آنذاك سواء من فلول المماليك أو قناصل الدول الغربية بمصر أو محمد على ورجاله أو الوالى التركى واتباعه ضد المصريين كافة من قبط ومسلمين، فكأنك تراها ماثلة أمامك بنفس أزياء وتصرفات ذلك الزمن وقد ساعده فى ذلك استخدام الإيقاع السريع الذى روى به الأحداث ، والشخوص التى أجتهد فى جعلها مثيرة للجدل، والجهد البحثي الذى جعله يصف المعارك والحياة فى ذلك العصر بتميز . ",
+          "is_paid": "1",
+          "narrator_id": "34",
+          "narrator_name": "إسلام عادل",
+          "rate": 4.4896265560165975
+        }
+      ]
+    },
+    {
+      "title": "كتب لنفس الراوى",
+      "books": [
+        {
+          "id": "1036",
+          "name": "حواديت السعادة",
+          "cover": "https://images.media.iqraaly.com:444/users/1/shows/1036_1526223705.jpg",
+          "author_id": "104",
+          "author": "شريف أسعد",
+          "publisher_name": "دار تويا للنشر والتوزيع",
+          "about": "مغامرات (حلو) العاشق للثقافة والكتب مع زوجته (سعادة) لاستعادة كنزهما من العشق والهوى الذي فقداه بعد سنوات قليلة جدا من الزواج. وبدلا من التعامل الجاد والمباشر مع مشكلات يومية يعيشها أزواج وزوجات اليوم يفتح \"شريف\" بابا للخيال يلتمس فيه حلولا غير تقليدية لإحياء الحب في قلوب العاشقين.",
+          "is_paid": "1",
+          "narrator_id": "90",
+          "narrator_name": "أسماء سمير",
+          "rate": 4.47
+        },
+        {
+          "id": "1037",
+          "name": "كل الطرق تؤدي ل 60 داهية",
+          "cover": "https://images.media.iqraaly.com:444/users/1/shows/1037.jpg",
+          "author_id": "161",
+          "author": "مصطفى شهيب",
+          "publisher_name": "دار تويا للنشر والتوزيع",
+          "about": "كتاب ساخر يعبر فيه  الكاتب عن الواقع الذى نعيشه، ويعكس أحداثه لكن بنوع من الانتقادات الخفيفة والتعليقات التي تصل إلى الإنسان البسيط في الشارع.",
+          "is_paid": "1",
+          "narrator_id": "90",
+          "narrator_name": "أسماء سمير",
+          "rate": 4.438095224489795
+        },
+        {
+          "id": "1056",
+          "name": "حب قاطعي الطريق",
+          "cover": "https://images.media.iqraaly.com:444/users/1/shows/1056.jpg",
+          "author_id": "189",
+          "author": "ماسيمو كارلوتو",
+          "publisher_name": "دار العين للنشر والتوزيع",
+          "about": "لأول مرة نشعر بأنفسنا على حافة الهاوية ولم نكن معتادين على هذا ، لم تكن لدينا أدنى فكرة عن أين يمكننا أن نجد \"سليفى\" ، لأن الشخص الذي أحضر لنا هذا الخاتم كان مجهولاً تماماً، لم نتحقق أبداً من هويته فقد ضربه بنيامين على رأسه لأنه حاول أن يورطنا في قصة لم نرد أن نعرف عنها أى شيء، تعامل معه بحركة دفاع عن النفس وكنا مقتنعين أنه لن يكون هناك تبعات، لم نرتكب خطأ أكثر من ذلك .",
+          "is_paid": "1",
+          "narrator_id": "90",
+          "narrator_name": "أسماء سمير",
+          "rate": 3.978723404255319
+        },
+        {
+          "id": "1086",
+          "name": "الأجنحة المتكسرة",
+          "cover": "https://images.media.iqraaly.com:444/users/1/shows/1086_1526223851.jpg",
+          "author_id": "56",
+          "author": "جبران خليل جبران",
+          "publisher_name": "حقوق عامة",
+          "about": "من أشهر قصص جبران خليل جبران باللغة العربية. يتحدث فيها عن حب روحي طاهر بين فتى بعمر 18 عاماً وفتاة تدعى سلمى ولكن تتم خطبتها من شخص آخر غني، حب بريء لا تشوبه الشهوانية، ولكنه حب يائس لا يجتمع طرفاه إلا بعد الممات.",
+          "is_paid": "1",
+          "narrator_id": "90",
+          "narrator_name": "أسماء سمير",
+          "rate": 4.4144736842105265
+        },
+        {
+          "id": "1089",
+          "name": "بين القصرين",
+          "cover": "https://images.media.iqraaly.com:444/users/1/shows/1089_1665564340.jpg",
+          "author_id": "168",
+          "author": "نجيب محفوظ",
+          "publisher_name": "دار ديوان",
+          "about": "الجزء الأول من ثلاثية القاهرة، تحكي الرواية قصة أسرة من الطبقة الوسطى، تعيش في حي شعبي من أحياء القاهرة في فترة ما قبل وأثناء ثورة 1919. يحكمها أب متزمت ذو شخصية قوية هو السيد أحمد عبد الجواد (سي السيد). ويعيش في كنف الأب كل من : زوجته أمينة وإبنه البكر ياسين وابنه فهمي وكمال إضافة إلى ابنتيه خديجة وعائشة.",
+          "is_paid": "1",
+          "narrator_id": "90",
+          "narrator_name": "أسماء سمير",
+          "rate": 4.580357142857143
+        },
+        {
+          "id": "1156",
+          "name": "معدية",
+          "cover": "https://images.media.iqraaly.com:444/users/1/shows/1156_1526213817.jpg",
+          "author_id": "248",
+          "author": "دينا عماد",
+          "publisher_name": "دار الرسم بالكلمات",
+          "about": "تدور الرواية في قالب اجتماعي، وتتسائل عن امكانية شراء السعادة بالمال من خلال قصة رانيا بطلة الرواية التي مرت بكثير من التناقضات في حياتها وقابلت الكثير من الصعوبات،ولكن في النهاية تستطيع التصالح مع الماضي الأليم الذي مرت به لكي تحيا حاضرها الذي اختارته بنفسها.\r\nتطرح الكاتبة فكرة أن الحياة هي مجموعة من الاختيارات وكل اختيار وله ثمن.. وتؤكد أنه لا يوجد أغلى من الحب والأمان والراحة في حضن العائلة الصغيرة \"الأسرة\" والعائلة الكبيرة \"مصر\".",
+          "is_paid": "1",
+          "narrator_id": "90",
+          "narrator_name": "أسماء سمير",
+          "rate": 4.510204081632653
+        }
+      ]
+    },
+    {
+      "title": "كتب لنفس التصنيفات",
+      "books": [
+        {
+          "id": "1056",
+          "name": "حب قاطعي الطريق",
+          "cover": "https://images.media.iqraaly.com:444/users/1/shows/1056.jpg",
+          "author_id": "189",
+          "author": "ماسيمو كارلوتو",
+          "publisher_name": "دار العين للنشر والتوزيع",
+          "about": "لأول مرة نشعر بأنفسنا على حافة الهاوية ولم نكن معتادين على هذا ، لم تكن لدينا أدنى فكرة عن أين يمكننا أن نجد \"سليفى\" ، لأن الشخص الذي أحضر لنا هذا الخاتم كان مجهولاً تماماً، لم نتحقق أبداً من هويته فقد ضربه بنيامين على رأسه لأنه حاول أن يورطنا في قصة لم نرد أن نعرف عنها أى شيء، تعامل معه بحركة دفاع عن النفس وكنا مقتنعين أنه لن يكون هناك تبعات، لم نرتكب خطأ أكثر من ذلك .",
+          "is_paid": "1",
+          "narrator_id": "90",
+          "narrator_name": "أسماء سمير",
+          "rate": 3.978723404255319
+        }
+      ]
+    }
+  ]
+}
